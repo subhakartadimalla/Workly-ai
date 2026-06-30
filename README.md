@@ -1,4 +1,4 @@
-# WorklyAI
+# Workly-AI
 
 <div align="center">
   <img src="public/worklyai-logo.svg" alt="WorklyAI Logo" width="120" height="120" />
