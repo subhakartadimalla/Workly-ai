@@ -6,10 +6,6 @@
   <p align="center">Streamline your job search with automated applications, personalized cover letters, and intelligent job matching.</p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/achalbajpai/workly/issues">Report Bug</a> • 
-  <a href="https://github.com/achalbajpai/workly/issues">Request Feature</a>
-</p>
 
 ## 📋 Overview
 
